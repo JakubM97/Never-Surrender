@@ -16,6 +16,8 @@ Various obstacles will apear thoughtout the game such as wandering enemies, ice,
 ## Physics
 The game uses Unity made physics. The controled character is dependent on gravity throughout the whole game. The longer the character is in air, the faster it will move. Player can also encounter ice which will reduce friction between players feet and ground. 
 
+More on physics and particle effects in **physics.md**
+
 ## Unity version
 The game project is compatible with Unity Version **2019.1.5f1**.
 
