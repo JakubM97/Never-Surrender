@@ -19,6 +19,10 @@ The game uses Unity made physics. The controled character is dependent on gravit
 ## Unity version
 The game project is compatible with Unity Version **2019.3.15f1**.
 
+## Game presentation video
+Check out our youtube video with some *Never Surrender* gameplay. 
+You can find the link [right here](www.youtube.com "Click me")
+
 ## Platform
 Recommended platform is Windows 10.
 
