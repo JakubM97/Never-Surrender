@@ -17,7 +17,7 @@ Various obstacles will apear thoughtout the game such as wandering enemies, ice,
 The game uses Unity made physics. The controled character is dependent on gravity throughout the whole game. The longer the character is in air, the faster it will move. Player can also encounter ice which will reduce friction between players feet and ground. 
 
 ## Unity version
-The game project is compatible with Unity Version **2019.1.5f1**.
+The game project is compatible with Unity Version **2019.3.15f1**.
 
 ## Platform
 Recommended platform is Windows 10.
