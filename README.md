@@ -15,14 +15,14 @@ Various obstacles will apear thoughtout the game such as wandering enemies, ice,
 
 ## Physics
 The game uses Unity made physics. The controled character is dependent on gravity throughout the whole game. The longer the character is in air, the faster it will move. Player can also encounter ice which will reduce friction between players feet and ground.  
-More on that in [here](.../blob/master/physics.md)
+More on that in [here](.../physics.md)
 
 ## Unity version
 The game project is compatible with Unity Version **2019.3.15f1**.
 
 ## Game presentation video
 Check out our youtube video with some *Never Surrender* gameplay. 
-You can find the link [right here](www.youtube.com "Click me")
+You can find the link [right here](https://www.youtube.com/watch?v=5LT6_Dkz6AI "Youtube link)
 
 ## Console codes
 * showfps - shows current amount of frames per second in upper right corner.
