@@ -14,7 +14,8 @@ Various obstacles will apear thoughtout the game such as wandering enemies, ice,
 * Double Jump - *W* or *Up Arrow* while in air after a Jump
 
 ## Physics
-The game uses Unity made physics. The controled character is dependent on gravity throughout the whole game. The longer the character is in air, the faster it will move. Player can also encounter ice which will reduce friction between players feet and ground. 
+The game uses Unity made physics. The controled character is dependent on gravity throughout the whole game. The longer the character is in air, the faster it will move. Player can also encounter ice which will reduce friction between players feet and ground.  
+More on that in [here](.../blob/master/physics.md)
 
 ## Unity version
 The game project is compatible with Unity Version **2019.3.15f1**.
@@ -23,8 +24,15 @@ The game project is compatible with Unity Version **2019.3.15f1**.
 Check out our youtube video with some *Never Surrender* gameplay. 
 You can find the link [right here](www.youtube.com "Click me")
 
+## Console codes
+* showfps - shows current amount of frames per second in upper right corner.
+* noclip - toggles collision from controlled character. If you want to enter the door to next level, you have to have the collision enabled.
+* tgm - toggles "god mode" which makes you unvulnurable 
+* help - shows a list of console codes
+* ver - shows current version of the game.
+
 ## Platform
-Recommended platform is Windows 10.
+Recommended platform is Windows 10. Older Windows versions are supported as long as it is x64.
 
 ## Authors
 - Jakub Mastalerczuk,  <mastalerczuk.jakub@gmail.com>  
